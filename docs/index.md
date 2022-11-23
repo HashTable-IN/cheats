@@ -2,4 +2,3 @@
 
 - [HTML](/html)
 - [CSS]()
-- [JS]()
