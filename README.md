@@ -1,2 +1,2 @@
 # cheats
-HashTable Cheats 😎
+HashTable Cheat Sheets 😎
